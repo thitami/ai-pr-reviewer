@@ -228,6 +228,11 @@ ai-pr-reviewer/
 ├── .env                 # Environment variables (not in git)
 ├── .gitignore
 ├── requirements.txt
+├── Dockerfile
+├── docker-compose.yml
+├── docker-compose.prod.yml
+├── docker-deployment.yaml
+├── ci-cd.yml
 └── README.md
 ```
 
